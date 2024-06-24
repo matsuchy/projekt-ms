@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #9bc017;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.navbar-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 30px;
+  color: white;
+  margin: 0;
+}
+
+.subtitle {
+  font-size: 20px;
+  color: white;
+  margin: 0;
+}
